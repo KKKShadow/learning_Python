@@ -1,7 +1,9 @@
 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import sys
 
-print("hello world")
+print('hello world')
 print("Python 版本信息：")
 print(sys.version)
 print("Python 解释器路径：")
